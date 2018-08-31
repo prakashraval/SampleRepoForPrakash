@@ -3,3 +3,5 @@ this is file 6.
 push 1
 
 push2
+
+push3
